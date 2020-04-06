@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "jorgevargas.dev",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "Personal website of Jorge Vargas",
+  "version": "1.0.0",
+  "author": "Jorge Vargas",
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/varxy20k/jorgevargas.dev/issues"
   },
   "dependencies": {
     "gatsby": "^2.20.12",
@@ -38,16 +38,8 @@
   "devDependencies": {
     "prettier": "^2.0.3"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "homepage": "https://jorgevargas.dev",
   "license": "MIT",
-  "main": "n/a",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
-  },
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
