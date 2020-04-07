@@ -60,11 +60,11 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Jorge Vargas`,
-        short_name: `JV`,
+        name: `Jorge Vargas Personal Website`,
+        short_name: `Jorge Vargas`,
         start_url: `/`,
         background_color: `#ffffff`,
-        theme_color: `#663399`,
+        theme_color: `#5f885f`,
         display: `minimal-ui`,
         icon: `content/assets/jv-icon.png`,
       },
